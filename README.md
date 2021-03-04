@@ -1,4 +1,4 @@
-### Hey! I a, Claudio Nogueira also known by clauj!
+### Hey! I am, Claudio Nogueira also known by clauj!
 
 I am currently studying system analysis and development in college and working with user support specialist.
 I am concentrating on studying front-end development languages, tools and frameworks.
